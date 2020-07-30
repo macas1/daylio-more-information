@@ -9,7 +9,7 @@ Notes:
 
 # SETTINGS
 file = "Daylio-export.csv"
-important_words = ["brad", "jake", "relax", "eat|ate", "family", "mum", "train"]
+important_words = ["brad", "relax", "eat|ate", "family", "mum", "train"]
 decimal_points = 2
 
 mood_values = ["depressed", "bad", "okay/mix of both good and bad ",
