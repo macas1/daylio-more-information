@@ -17,27 +17,27 @@
 | mood_values | The list of mood values ordered from worst to best that you're daylio account uses |
 
 # Example output
-Activities:
-	gaming    makes you 15.76% less happy
-	youtube   makes you 13.39% less happy
-	train     makes you 11.64% less happy
-	friends   makes you 10.50% less happy
-	relax     makes you 9.07% less happy
-	sport     makes you 7.29% less happy
-	uni       makes you 5.71% less happy
-	music     makes you 2.86% less happy
-	study     makes you 2.81% less happy
-	cleaning  makes you 4.85% more happy
-	good meal makes you 15.13% more happy
-	family    makes you 20.35% more happy
-	shopping  makes you 34.93% more happy
-	party     makes you 35.18% more happy
-	work      makes you 35.18% more happy
-	date      makes you 60.97% more happy
-Notes:
-	train  makes you 9.72% less happy
-	mum    makes you 4.17% more happy
-  brad   makes you 8.17% more happy
-	family makes you 24.02% more happy
-
+Activities:<br/> 
+  gaming    makes you 15.76% less happy<br>
+  youtube   makes you 13.39% less happy<br/> 
+  train     makes you 11.64% less happy<br/> 
+  friends   makes you 10.50% less happy<br/> 
+  relax     makes you 9.07% less happy<br/> 
+  sport     makes you 7.29% less happy<br/> 
+  uni       makes you 5.71% less happy<br/> 
+  music     makes you 2.86% less happy<br/> 
+  study     makes you 2.81% less happy<br/> 
+  cleaning  makes you 4.85% more happy<br/> 
+  good meal makes you 15.13% more happy<br/> 
+  family    makes you 20.35% more happy<br/> 
+  shopping  makes you 34.93% more happy<br/> 
+  party     makes you 35.18% more happy<br/> 
+  work      makes you 35.18% more happy<br/> 
+  date      makes you 60.97% more happy<br/> 
+Notes:<br/> 
+  train  makes you 9.72% less happy<br/> 
+  mum    makes you 4.17% more happy<br/> 
+  brad   makes you 8.17% more happy<br/> 
+  family makes you 24.02% more happy<br/> 
+<br/> 
 End of output. Press enter to close.
